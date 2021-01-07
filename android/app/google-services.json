@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "567828289148",
+    "project_id": "tabuk-app",
+    "storage_bucket": "tabuk-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:567828289148:android:f50ace36ac5e207d5c9bf9",
+        "android_client_info": {
+          "package_name": "com.hissro.tabuk_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "567828289148-hk5qrf3t855op15ge8t0pmerrnus12ep.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDl-x26YPVhMwT5weec0_cYk1hgq7maJZM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "567828289148-hk5qrf3t855op15ge8t0pmerrnus12ep.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

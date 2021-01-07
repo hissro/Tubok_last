@@ -1,0 +1,54 @@
+{
+	"app_bar": {
+ 		"app_name": "MyService"
+	},
+
+	"language": {
+		"selection": {
+			"title": "Choose language",
+			"message": ""
+		},
+		"name": {
+			"en": "English",
+			"ar": "العربية",
+			"fa": "Persian"
+		}
+	},
+	"app": {
+		"language": "Language",
+		"home":"Home",
+		"call": "Call",
+		"email": "Phone",
+		"password": "Password",
+		"Login": "Login",
+		"ForgotPassword": "Forgot Password?",
+		"Loading":"Loading...",
+		"logout":"Logout",
+		"statistic": "New Order",
+		"TodayOrder": "Today Order",
+		"Orders": "All Orders",
+		"reviews": "Reviews",
+		"cancel": "Cancel",
+		"NoData":"No Data",
+		"share": "Share App",
+		"profile": "Edit profile",
+		"user_email": "Email",
+		"user_fullname": "Full Name",
+		"user_password": "Password",
+		"user_phone": "Phone Number",
+		"update": "update",
+		"updated": "Profile updated successfully",
+		"shareTo": "  تطبيق خدمي تجريبي   \n  حمله الان  https://hissro.net   ",
+		"welcomemessage": "Welcome to MyService application",
+		"phone_null": " Please fill in the phone field ",
+		"password_null": " Please fill in the password field ",
+		"title": "Title",
+		"description": "Description",
+		"send": "Send",
+		"sess": "Your request has been successfully sent. The order tracking number is:",
+		"error_sending": "We regret an error occurred while sending the request"
+	}
+
+
+
+}
